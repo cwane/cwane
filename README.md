@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently in learning phase
+- 🌱 I’m currently in learning Next.js , Machine Learning
 
 - 📫 How to reach me **shahshiwani70@gmail.com**
 
