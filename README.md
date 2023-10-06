@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently developing my skills on Next.js , Machine Learning
+- 🌱 I’m currently developing my skills on MERN Stack, Machine Learning
 
 - 📫 How to reach me **shahshiwani70@gmail.com**
 
