@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently developing my skills on MERN Stack, Machine Learning
+- 🌱 I’m currently developing my skills on MERN Stack, C#, Machine Learning
 
 - 📫 How to reach me **shahshiwani70@gmail.com**
 
