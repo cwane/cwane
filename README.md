@@ -26,7 +26,10 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+</a> <a href="https://gitforwindows.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git Bash" width="40" height="40"/>
 </a>
+
 </p>
 
 
